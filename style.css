@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: century;
+}
+body{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://thumbs.dreamstime.com/b/abstract-purple-pink-background-texture-design-messy-stained-frame-vintage-grunge-elegant-antique-paint-wall-deep-37088960.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+}
+.card-img-top {
+    height: 250px !important;
+    width: 100% !important;
+}
+/* .logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+ul{
+
+    float: left;
+    list-style-type: style type none; ;
+    margin-top: 30px;
+    min-height: 400px;
+    margin-left: 170px;
+    font-size: 12px;
+
+}
+
+ul li{
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+}
+
+ul li a:hover{
+    background-color: #1B6B93;
+    color: #000;
+
+}
+.DJSNAKE{
+    position: absolute;
+    top: 38%;
+    left: 23.5%;
+    transform: translate(-50%,-50%);
+}
+
+.DJSNAKE h1{
+    color:white;
+    font-size: 20px;
+    
+}
+
+
+
+.DJSNAKE img{
+    height:200px ;
+    width:230px ;
+    left:25% ;
+}
+.DJSNAKE p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: aliceblue;
+
+} */
+/* .SABRINA{
+    position: absolute;
+    top: 59%;
+    left: 190%;
+    transform: translate(-50%,-50%);
+}
+.SABRINA img{
+    height:200px ;
+    width:230px ;
+    left:25% ;
+}
+
+.DADDY{
+    position: absolute;
+    top: 50%;
+    left: 190%;
+    transform: translate(-50%,-50%);
+}
+.DADDY img{
+    height:200px ;
+    width:230px ;
+    left:25% ;
+}
+h2{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: aliceblue;
+    font-size: 70px;
+}
+.sidelist ol li{
+    background-color: wheat;
+}
+ol{
+    float: right;
+    list-style-type: style type none; ;
+    margin: -400px;
+    min-height: 400px;
+    margin-right: 1110px;
+    font-size: 12px;
+}
+ol li{
+    display: list-item;
+}
+ol li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    margin: 10px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+    
+} */
